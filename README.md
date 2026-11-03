@@ -1,9 +1,11 @@
-# Zhuo Han — Website Root
+# Zhuo Han — Official Personal Homepage
 
-Public root: https://zhuo-han-challenger.github.io/
+Canonical website: https://zhuo-han-challenger.github.io/
 
-Full personal profile remains at https://zhuo-han-challenger.github.io/zhuo-han/ and is maintained in the separate zhuo-han repository. This root page is a short introduction and discoverable entry, not a replacement or redirect of the full profile.
+This repository is the authoritative source for the complete personal homepage. The root URL directly displays the sidebar academic layout, education, experience, research projects and selected publications; there is no separate entry or landing page.
 
-The root provides WebSite structured data with the preferred site name Zhuo Han, consistent visible headings and Open Graph metadata, a favicon, origin-root robots.txt and a sitemap containing both canonical pages. Google chooses search appearance automatically; these preferences do not guarantee the displayed name or update time.
+GitHub Pages deploys main from the repository root. Edit index.html here for all future updates. Preserve the Google verification file, the WebSite/ProfilePage structured data, og:site_name, canonical root URL, robots.txt and sitemap.xml.
 
-GitHub Pages publishes main from the repository root. Keep the existing Google verification file available. To request root recrawling, the owner may need to add and verify the URL-prefix property https://zhuo-han-challenger.github.io/ in Search Console; the existing /zhuo-han/ property covers only that subdirectory.
+Previous project-site addresses redirect here. Their repositories are redirect-only and must not be used for homepage content updates.
+
+Google Search chooses the site name and search ranking automatically. Request a recrawl of the root URL in Search Console after deployment. Existing subdirectory-only Search Console properties do not cover the root URL.
